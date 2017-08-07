@@ -1,2 +1,6 @@
 # WebUntis-Fix
-Userscript for WebUntis (TBZ Mitte Bremen)
+Userscript für WebUntis (TBZ Mitte Bremen)
+
+* Fügt die Uhrzeiten der Stunden zum Stundenplan hinzu
+
+
