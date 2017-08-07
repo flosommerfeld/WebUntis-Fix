@@ -3,4 +3,8 @@
 
 * Fügt die Uhrzeiten der Stunden zum Stundenplan hinzu
 
+ - - - -
+ 
+ ### Installation ###
+
 
