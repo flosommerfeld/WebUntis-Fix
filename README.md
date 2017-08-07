@@ -11,4 +11,4 @@
 2. Auf "RAW" klicken
 3. Warten bis der Countdown abgelaufen ist und auf installieren klicken
 
-*Hineweis: Greasemonkey ([Firefox-Addon](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)) oder Tampermonkey ([Firefox-Addon](https://addons.mozilla.org/de/firefox/addon/tampermonkey/)/[Chrome-Addon](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de)) sollte bereits vorinstalliert sein*
+*Hinweis: Greasemonkey ([Firefox-Addon](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)) oder Tampermonkey ([Firefox-Addon](https://addons.mozilla.org/de/firefox/addon/tampermonkey/)/[Chrome-Addon](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de)) sollte bereits vorinstalliert sein*
