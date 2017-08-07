@@ -21,4 +21,4 @@
 
 
 
-*Aktuelle Version: 1.9*
+Aktuelle Version: 1.9
