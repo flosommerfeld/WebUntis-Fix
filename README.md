@@ -17,3 +17,9 @@
 
 ### Screenshot ###
 ![Screenshot](http://i.imgur.com/HC3y4nm.png "Screenshot")
+
+
+
+<br>
+<br>
+*Aktuelle Version: 1.9*
