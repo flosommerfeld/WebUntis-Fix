@@ -20,6 +20,5 @@
 
 
 
-<br/>
-<br/>
+
 *Aktuelle Version: 1.9*
