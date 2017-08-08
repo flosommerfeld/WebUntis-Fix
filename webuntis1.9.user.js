@@ -3,7 +3,7 @@
 // @namespace   https://flosommerfeld.github.io
 // @include     https://tipo.webuntis.com/*
 // @require     https://code.jquery.com/jquery-3.2.1.min.js
-// @version     1.9.0
+// @version     1.9
 // ==/UserScript==
 
 //Avoid conflicts
