@@ -16,7 +16,7 @@
 
 
 ### Screenshot ###
-![Screenshot von WebUntis-Fix](http://i.imgur.com/HC3y4nm.png "Screenshot von WebUntis-Fix")
+![Screenshot von WebUntis-Fix](http://i.imgur.com/k6hSBap.png "Screenshot von WebUntis-Fix")
 
 
 
