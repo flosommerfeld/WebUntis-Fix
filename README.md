@@ -4,8 +4,8 @@
 
 * Fügt die Uhrzeiten der Stunden zum Stundenplan hinzu
 
- - - - -
- 
+<br/>
+<br/>
  ## Installation
 
 1. [Das Userscript auf GitHub öffnen](https://github.com/flosommerfeld/WebUntis-Fix/blob/master/webuntis1.9.user.js)
