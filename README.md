@@ -1,6 +1,7 @@
 # WebUntis-Fix
 ![WebUntis-Fix](http://i.imgur.com/WGEJY59.png "WebUntis-Fix")
 ### Userscript für WebUntis (TBZ Mitte Bremen) ###
+[![Aktuelle Version](https://img.shields.io/badge/Aktuelle%20Version-1.9.2-brightgreen.svg)](https://github.com/flosommerfeld/WebUntis-Fix/blob/master/webuntis-fix.user.js) 
 
 * Fügt die Uhrzeiten der Stunden zum Stundenplan hinzu
 
@@ -19,8 +20,3 @@
 
 ## Screenshot
 ![Screenshot von WebUntis-Fix](http://i.imgur.com/k6hSBap.png "Screenshot von WebUntis-Fix")
-
-
-[![Aktuelle Version](https://img.shields.io/badge/Aktuelle%20Version-1.9.2-brightgreen.svg)](https://github.com/flosommerfeld/WebUntis-Fix/blob/master/webuntis-fix.user.js) 
-
-
