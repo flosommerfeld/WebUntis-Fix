@@ -9,7 +9,6 @@
 // @version     1.9.2
 // ==/UserScript==
 
-//Avoid conflicts
 this.$ = this.jQuery = jQuery.noConflict(true);
 $(document).ready(function() {
   setInterval(function() {
@@ -47,5 +46,4 @@ $(document).ready(function() {
       //nothing
     }
   }, 10);
-
 });
