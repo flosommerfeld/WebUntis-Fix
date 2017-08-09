@@ -15,6 +15,7 @@
 
 *Hinweis: Greasemonkey ([Firefox-Addon](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)) oder Tampermonkey ([Firefox-Addon](https://addons.mozilla.org/de/firefox/addon/tampermonkey/)/[Chrome-Addon](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de)) sollte bereits vorinstalliert sein*
 
+<br/>
 
 ## Screenshot
 ![Screenshot von WebUntis-Fix](http://i.imgur.com/k6hSBap.png "Screenshot von WebUntis-Fix")
