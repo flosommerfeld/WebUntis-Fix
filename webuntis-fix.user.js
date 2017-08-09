@@ -2,15 +2,16 @@
 // @name        WebUntis-Fix
 // @namespace   https://flosommerfeld.github.io
 // @description Fügt die Uhrzeiten der Stunden zum WebUntis-Stundenplan vom TBZ Mitte Bremen hinzu
+// @icon http://i.imgur.com/WGEJY59.png
 // @include     https://tipo.webuntis.com/*
 // @require     https://code.jquery.com/jquery-3.2.1.min.js
-// @version     1.9.1
+// @downloadURL https://github.com/flosommerfeld/WebUntis-Fix/edit/master/webuntis-fix.user.js
+// @version     1.9.2
 // ==/UserScript==
 
 //Avoid conflicts
 this.$ = this.jQuery = jQuery.noConflict(true);
 $(document).ready(function() {
-
   setInterval(function() {
     if ($(".has-value")[0] && $("#react-select-2--value-item").html().indexOf("BGT") !== -1) {
       $(".rowHeader").each(function() {
