@@ -1,4 +1,5 @@
 # WebUntis-Fix
+![picture alt](https://github.com/flosommerfeld/WebUntis-Fix/blob/master/icon.png "Logo")
 ### Userscript für WebUntis (TBZ Mitte Bremen) ###
 
 * Fügt die Uhrzeiten der Stunden zum Stundenplan hinzu
