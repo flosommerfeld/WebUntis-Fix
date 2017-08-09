@@ -3,6 +3,7 @@
 ### Userscript für WebUntis (TBZ Mitte Bremen) ###
 
 * Fügt die Uhrzeiten der Stunden zum Stundenplan hinzu
+
 [![Aktuelle Version](https://img.shields.io/badge/Aktuelle%20Version-1.9.2-brightgreen.svg)](https://github.com/flosommerfeld/WebUntis-Fix/blob/master/webuntis-fix.user.js) 
 
 <br/>
