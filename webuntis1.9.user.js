@@ -1,4 +1,4 @@
-﻿ // ==UserScript==
+// ==UserScript==
 // @name        WebUntis Fix
 // @namespace   https://flosommerfeld.github.io
 // @include     https://tipo.webuntis.com/*
