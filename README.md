@@ -8,7 +8,7 @@
 
  ## Installation
 
-1. [Das Userscript auf GitHub öffnen](https://github.com/flosommerfeld/WebUntis-Fix/blob/master/webuntis1.9.user.js)
+1. [Das Userscript auf GitHub öffnen](https://github.com/flosommerfeld/WebUntis-Fix/blob/master/webuntis-fix.user.js)
 2. Auf "RAW" klicken
 3. Warten bis der Countdown abgelaufen ist und auf "Installieren" klicken
 4. In den Addon-Einstellungen sicherstellen, dass das Userscript aktiviert ist
