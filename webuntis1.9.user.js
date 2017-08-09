@@ -15,7 +15,6 @@ $(document).ready(function() {
       $(".rowHeader").each(function() {
         var hourElement = $(this).children().children().children().children().children().children().children();
         hourElement.css("font-size", "8px");
-
         if (hourElement.html() == "0.") {
           hourElement.append(" 07:20-8:05");
         } else if (hourElement.html() == "1.") {
