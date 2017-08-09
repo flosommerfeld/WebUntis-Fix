@@ -23,4 +23,4 @@
 
 
 
-Aktuelle Version: 1.9.1
+Aktuelle Version: 1.9.2
