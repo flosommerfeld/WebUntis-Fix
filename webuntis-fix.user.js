@@ -6,11 +6,16 @@
 // @include     https://tipo.webuntis.com/*
 // @require     https://code.jquery.com/jquery-3.2.1.min.js
 // @downloadURL https://github.com/flosommerfeld/WebUntis-Fix/edit/master/webuntis-fix.user.js
-// @version     1.9.2
+// @version     1.9.3
 // ==/UserScript==
 
 this.$ = this.jQuery = jQuery.noConflict(true);
 $(document).ready(function() {
+  
+  if(window.location.href.indexOf("WebUntis") == -1){
+    window.location.href = "https://tipo.webuntis.com/WebUntis";
+  }
+  
   setInterval(function() {
     if ($(".has-value")[0] && $("#react-select-2--value-item").html().indexOf("BGT") !== -1) {
       $(".rowHeader").each(function() {
@@ -46,5 +51,6 @@ $(document).ready(function() {
       //nothing
     }
   }, 10);
+  
 });
 
