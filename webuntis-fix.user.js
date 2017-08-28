@@ -6,14 +6,14 @@
 // @include     https://tipo.webuntis.com/*
 // @require     https://code.jquery.com/jquery-3.2.1.min.js
 // @downloadURL https://github.com/flosommerfeld/WebUntis-Fix/edit/master/webuntis-fix.user.js
-// @version     1.9.3
+// @version     1.9.4
 // ==/UserScript==
 
 this.$ = this.jQuery = jQuery.noConflict(true);
 $(document).ready(function() {
   
   if(window.location.href.indexOf("WebUntis") == -1){
-    window.location.href = "https://tipo.webuntis.com/WebUntis";
+    window.location.href = "https://tipo.webuntis.com/WebUntis/#/basic/timetable";
   }
   
   setInterval(function() {
