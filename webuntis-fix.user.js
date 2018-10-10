@@ -6,7 +6,7 @@
 // @include     https://tipo.webuntis.com/*
 // @require     https://code.jquery.com/jquery-3.2.1.min.js
 // @downloadURL https://github.com/flosommerfeld/WebUntis-Fix/edit/master/webuntis-fix.user.js
-// @version     1.9.5
+// @version     1.9.6
 // ==/UserScript==
 
 
@@ -29,7 +29,7 @@ $(document).ready(function() {
                         hourElement.append(" 07:20-8:05");
                         break;
                     case "1.":
-                        hourElement.append(" 08:55-09:40");
+                        hourElement.append(" 08:10-8:55");
                         break;
 
                     case "2.":
